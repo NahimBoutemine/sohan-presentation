@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.title("PHOTOS DE SOHAN")
+
 st.markdown(
         """
         Salut à toi, futur ami de SOHAN! 
