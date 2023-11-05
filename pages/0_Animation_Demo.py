@@ -7,6 +7,8 @@ import streamlit as st
 st.markdown("# MATERNITE")
 st.sidebar.header("Animation Demo")
 st.write(
-    """voici les premiers jours de bébé, à la maternité
+    """
+    voici les premiers jours de bébé, à la maternité
+    """
 )
 
